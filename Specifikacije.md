@@ -1,4 +1,4 @@
-Functionality 
+##Functionality 
 
 1. Searching for products🔍  _Searching for products and adding them to cart_
 2. Ordering products💵 _Ordering products from cart and payment_
